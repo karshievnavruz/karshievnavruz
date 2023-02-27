@@ -10,7 +10,7 @@
 
 <a href="https://github.com/karshievnavruz"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://instagram.com/karshievnavruz"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://t.me/karshievnavruz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/karshiev_navruz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.codewars.com/users/Navruzq/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
 <!-- <a href="[https://www.sololearn.com/profile/27804078]"><img src="https://img.shields.io/badge/sololearn-10397c?style=for-the-badge&logo=sololearn&logoColor=white"/></a> -->
 <!-- <a href="https://gitlab.com/quvvatullayev/"><img src="https://img.shields.io/badge/gitlab-FF6600?style=for-the-badge&logo=gitlab&logoColor=white"/></a></a> -->
@@ -31,4 +31,4 @@
 
 
 - **🔴 Visit My Instagram Accout [@karshievnavruz](https://www.instagram.com/karshievnavruz/)**
-- **🔵 Chat with me on Telegram Messanger [@karshievnavruz](https://t.me/karshievnavruz)**
+- **🔵 Chat with me on Telegram Messanger [@karshiev_navruz](https://t.me/karshiev_navruz)**
