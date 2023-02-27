@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![quvvatullayevogabek's github stats](https://github-readme-stats.vercel.app/api?username=rystambek&show_icons=true&theme=tokyonight)
+![quvvatullayevogabek's github stats](https://github-readme-stats.vercel.app/api?username=Navruz&show_icons=true&theme=tokyonight)
 
 [![CodeWars](https://www.codewars.com/users/Navruzq/badges/large)]([https://www.codewars.com/users/Navruzq(https://www.codewars.com/users/Navruzq))
 
