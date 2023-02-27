@@ -6,9 +6,7 @@
 [![CodeWars](https://www.codewars.com/users/Navruzq/badges/large)]([https://www.codewars.com/users/Navruzq(https://www.codewars.com/users/Navruzq))
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Navruzq/count.svg" />
-</p>
+  
 
 # [Qarshiyev Navruz!](qarshiyevnavruz7777@gmail.com) Social networks
 
