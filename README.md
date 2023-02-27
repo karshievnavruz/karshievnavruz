@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-
+ 
 [![CodeWars](https://www.codewars.com/users/Navruzq/badges/large)]([https://www.codewars.com/users/Navruzq(https://www.codewars.com/users/Navruzq))
  
 <p align="center"> 
@@ -24,7 +24,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,flask,github,gitlab,heroku,html,instagram,js,jquery,linux,md,py,sass,vscode)](https://skillicons.dev) -->
 
-
+ 
 ## About Me
 
 ### Hi there 👋. I'm Navruz and I'm from [UZBEKISTAN🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan). I'm 20 y.o. I study at [TATU SF ![image](https://user-images.githubusercontent.com/105332906/206888050-f68457da-1397-4adb-b063-d0c73ba28c67.png)](https://samtuit.uz/)
