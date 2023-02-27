@@ -20,7 +20,7 @@
 <!-- <a href="https://gitlab.com/quvvatullayev/"><img src="https://img.shields.io/badge/gitlab-FF6600?style=for-the-badge&logo=gitlab&logoColor=white"/></a></a> -->
 
 
-# 🐍 snike 
+
 
 <a href=#><img src="snike.svg"></a>
 
