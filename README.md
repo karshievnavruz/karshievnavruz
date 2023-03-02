@@ -8,8 +8,8 @@
 
 # [Qarshiyev Navruz!](qarshiyevnavruz7777@gmail.com) Social networks
 
-<a href="https://github.com/karshievnavruz"><img src="https://img.shields.io/badge/github-D1001F?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="qarshiyevnavruz7777@gmail.com"><img src="https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/karshievnavruz"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="qarshiyevnavruz7777@gmail.com"><img src="https://img.shields.io/badge/gmail-00FF00?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/karshiev_navruz"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://t.me/karshiev_navruz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.codewars.com/users/Navruzq/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
