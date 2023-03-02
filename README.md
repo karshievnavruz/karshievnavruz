@@ -35,7 +35,7 @@
 
  ## Language and TOOLS
 
-[![My Skills](https://skillicons.dev/icons?i=py,github,git,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,postman,instagram,telegram,vscode)](https://skillicons.dev)
 
 
 <!-- ,numpy,pandas,matplotlib,opencv,
