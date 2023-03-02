@@ -33,4 +33,10 @@
 - **🔴 Visit My Instagram Accout [@karshiev_navruz](https://www.instagram.com/karshievnavruz/)**
 - **🔵 Chat with me on Telegram Messanger [@karshiev_navruz](https://t.me/karshiev_navruz)**
 
-  
+ ## Language and TOOLS
+
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,docker,postgresql,github,git,linux,vscode,linkedin,latex,vim,discord)](https://skillicons.dev)
+
+
+<!-- ,numpy,pandas,matplotlib,opencv,
+
