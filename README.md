@@ -31,7 +31,7 @@
 ### Hi there 👋. I'm Navruz and I'm from [UZBEKISTAN🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan). I'm 20 y.o. I study at [TATU SF ![image](https://user-images.githubusercontent.com/105332906/206888050-f68457da-1397-4adb-b063-d0c73ba28c67.png)](https://samtuit.uz/)
 
 
-- **🔴 Visit My Instagram Accout [@karshiev_navruz](https://www.instagram.com/karshievnavruz/)**
+- **🔴 Visit My Instagram Accout [@karshiev_navruz](https://www.instagram.com/karshiev_navruz/)**
 - **🔵 Chat with me on Telegram Messanger [@karshiev_navruz](https://t.me/karshiev_navruz)**
 
  ## Language and TOOLS
