@@ -6,7 +6,7 @@
 <p align="center"> 
       
 
-# [!Qarshiyev Navruz(https://myurls.co/karshiev_navruz)] Social networks
+# [[Qarshiyev Navruz](https://myurls.co/karshiev_navruz)] Social networks
 
 <a href="https://github.com/karshievnavruz"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="qarshiyevnavruz7777@gmail.com"><img src="https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
