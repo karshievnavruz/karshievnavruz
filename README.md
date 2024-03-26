@@ -1,7 +1,7 @@
 ### Hi there 👋
  
  
-[[CodeWars](https://www.codewars.com/users/Navruzq/badges/large)]([https://www.codewars.com/users/Navruzq(https://www.codewars.com/users/Navruzq))
+# [![CodeWars](https://www.codewars.com/users/Navruzq/badges/large)]([https://www.codewars.com/users/Navruzq(https://www.codewars.com/users/Navruzq))
  
 <p align="center"> 
       
