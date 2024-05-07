@@ -35,7 +35,11 @@
 - **🔵 Chat with me on Telegram Messanger [@karshiev_navruz](https://t.me/karshiev_navruz)**
 ## ARE MY CERTIFICATE
 
-[Python 3 Programming](https://www.coursera.org/account/accomplishments/specialization/Z7MEVJA3S8ER)
+- [Python 3 Programming](https://www.coursera.org/account/accomplishments/specialization/Z7MEVJA3S8ER)
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/YB3NU3LS7GZL)
+- [Introduction to Operating Systems](https://www.coursera.org/account/accomplishments/specialization/CFR3L9LXGRFY)
+
+
  ## Language and TOOLS
 
 [![My Skills](https://skillicons.dev/icons?i=py,github,git,postman,instagram,twitter,vscode,html)](https://skillicons.dev)
