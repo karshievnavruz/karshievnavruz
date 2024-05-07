@@ -33,7 +33,9 @@
 
 - **🔴 Visit My Instagram Accout [@karshiev_navruz](https://www.instagram.com/karshiev_navruz/)**
 - **🔵 Chat with me on Telegram Messanger [@karshiev_navruz](https://t.me/karshiev_navruz)**
+## ARE MY CERTIFICATE
 
+[Python 3 Programming](https://www.coursera.org/account/accomplishments/specialization/Z7MEVJA3S8ER)
  ## Language and TOOLS
 
 [![My Skills](https://skillicons.dev/icons?i=py,github,git,postman,instagram,twitter,vscode,html)](https://skillicons.dev)
@@ -41,8 +43,6 @@
 
 <!-- ,numpy,pandas,matplotlib,opencv,
 
-##ARE MY CERTIFICATE
 
-[Python 3 Programming](https://www.coursera.org/account/accomplishments/specialization/Z7MEVJA3S8ER)
 
 
