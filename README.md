@@ -38,6 +38,7 @@
 - [Python 3 Programming](https://www.coursera.org/account/accomplishments/specialization/Z7MEVJA3S8ER)
 - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/YB3NU3LS7GZL)
 - [Introduction to Operating Systems](https://www.coursera.org/account/accomplishments/specialization/CFR3L9LXGRFY)
+- [Google IT Automation with Python](https://coursera.org/share/7eb8c27cabbd6716581809021f020ad6)
 
 
  ## Language and TOOLS
